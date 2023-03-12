@@ -1,7 +1,7 @@
 # Marlin-TRONXY-XY-2
 Modificicacion de firmware para mi impresora 3D: TronXY-XY-2 (Firmware Marlin - (Placa original)) 
 Pueden copiar todos los archivos en microSD, insertarlo en la impresora y reiniciar, luego de los pitidos estará cargado en la memoria de la impresora listo para funcionar. Me base en https://github.com/rhapsodyv/Marlin/tree/tronxy-full-mks-tft 
-Usar bajo su propio riesgo, ya que no hay mucha informacion para revertirlo al firmware original Chitu (No encontre en internet el standar, dicen en los foros que hay que pedirlo al serv tecnico chino de Tronxy por e-mail).
+Usar bajo su propio riesgo, ya que no hay mucha informacion para revertirlo al firmware original Chitu (No encontre en internet el original, dicen en los foros que hay que pedirlo al serv tecnico chino de Tronxy por e-mail).
 Consultas a mi email/redes. Saludos makers!
 
 English:
